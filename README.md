@@ -1,5 +1,5 @@
 # Premiere-pro
-PR projets GITHUB
+PR projets GITHUB CLICL ON "RAW" for the better view and copy paste etc
 
 
 Application
